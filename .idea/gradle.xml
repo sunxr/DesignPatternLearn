@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/decoratinopattern" />
             <option value="$PROJECT_DIR$/factorymethod" />
             <option value="$PROJECT_DIR$/observerpattern" />
+            <option value="$PROJECT_DIR$/templatemethod" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
